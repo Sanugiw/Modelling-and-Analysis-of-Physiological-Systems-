@@ -21,7 +21,5 @@ This repo includes MATLAB simulations and reports related to modeling various ph
 - MATLAB (for simulations and parameter setting)
 - LaTeX (for documentation and reports)
 
-## Folder Structure
-- Simulation of respiratory mechanics
-- Electrical properties of branching dendrites
+
 
