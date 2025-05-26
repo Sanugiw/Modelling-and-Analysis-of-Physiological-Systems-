@@ -1,6 +1,7 @@
 # Modelling and Analysis of Physiological Systems
 
 Welcome to the repository containing coursework and simulations for the **Modelling and Analysis of Physiological Systems** module.  
+
 This repository features MATLAB-based models and LaTeX documentation exploring physiological mechanisms through simulation and analytical approaches.
 
 ## Repository Contents
