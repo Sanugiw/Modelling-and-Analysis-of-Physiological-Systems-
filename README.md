@@ -1,32 +1,55 @@
 # Modelling and Analysis of Physiological Systems
 
-Welcome to the repository containing coursework and simulations for the **Modelling and Analysis of Physiological Systems** module.  
+Welcome to the repository containing coursework and simulations for the **BM2012 - Modelling and Analysis of Physiological Systems** module.
 
-This repository features MATLAB-based models and LaTeX documentation exploring physiological mechanisms through simulation and analytical approaches.
-
-## Repository Contents
-
-### 🫁 Lung Ventilation Simulations
-- Simulation of a healthy adult lung
-- Pulmonary fibrosis (restrictive condition) modeling
-- Asthma (obstructive condition) modeling
-- Comparative analysis of minute ventilation across conditions
-
-### 🧠 Neuronal Modeling
-- Passive electrical modeling of dendritic branches
-- Simulation of membrane potential changes due to signal propagation
-
-### ❤️ Cardiac Physiology
-- Analysis of the cardiac cycle using pressure-volume relationships
-- Valve dynamics and flow velocity interpretation
-- Effects of aortic valve stenosis on preload, afterload, and cardiac output
-- Estimation of myocardial workload and adaptations
-
-## Tools & Technologies
-
-- **MATLAB / Simulink** – Used for physiological system modeling and GUI simulations  
-- **LaTeX** – Used for reporting and documenting simulation results
+This repository features MATLAB-based simulations and LaTeX-based documentation that analyze and model core physiological processes. Some simulations were built upon **pre-existing models**, adapted for academic use and further analysis.
 
 ---
 
-This repository serves as a comprehensive collection of simulation-based assignments focused on understanding and analyzing core physiological processes.
+## 📁 Repository Contents
+
+### 🫁 A1: Simulation of Respiratory Mechanics
+- Ventilation analysis in a healthy lung
+- Modeling of **Pulmonary Fibrosis** (restrictive condition)
+- Modeling of **Asthma** (obstructive condition)
+- Comparison of **minute ventilation** across all cases  
+> 🔹 Model adapted from: *Simulation of Respiratory Mechanics on Simulink with GUI* by David L. R. Sarmiento and Daniela A. Guerrero
+
+---
+
+### 🧠 A2: Electrical Properties of Branching Dendrites
+- Simulation of **passive signal propagation** in dendritic trees
+- Voltage distribution across branches and junctions
+- Analysis of current flow and impedance effects  
+> 🔹 Built using a simplified compartmental model of dendritic structure
+
+---
+
+### ❤️ A3: Analysis of Cardiac Physiology
+- Simulation of normal and stenotic heart function using **CircAdapt Simulator v1.1.0**
+- Analysis of **pressure-volume loops**, **valve behavior**, and **ventricular workload**
+- Interpretation of results using the **Wiggers diagram** as a physiological reference  
+> 🔹 Simulation tool: [CircAdapt Simulator](http://www.circadapt.org/downloads/files)
+
+---
+
+### ⚡ A4: Hodgkin-Huxley Model
+- Investigation of **action potential threshold**
+- Analysis of **refractory periods** and **repetitive firing**
+- Impact of **stimulus amplitude** and **temperature**
+- Use of built-in scripts like `hhmplot` and `hhconst`  
+> 🔹 Model structure based on the classic **Hodgkin-Huxley equations** (1952)
+
+---
+
+## 🧰 Tools & Technologies
+
+- **MATLAB / Simulink** – For simulations and GUI-based experiments  
+- **LaTeX** – For technical documentation and reporting  
+- **CircAdapt** – For advanced cardiac physiology simulation  
+- **Custom MATLAB scripts** – For batch simulation and analysis
+
+---
+
+This repository represents a hands-on approach to learning physiological systems through modeling. Each assignment bridges theory with simulation, enabling in-depth analysis of how biological systems function under both normal and pathological conditions.
+
