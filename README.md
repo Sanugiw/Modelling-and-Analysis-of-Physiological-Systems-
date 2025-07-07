@@ -1,7 +1,5 @@
 # Modelling and Analysis of Physiological Systems
 
-Welcome to the repository containing coursework and simulations for the **BM2012 - Modelling and Analysis of Physiological Systems** module.
-
 This repository features MATLAB-based simulations and LaTeX-based documentation that analyze and model core physiological processes. Some simulations were built upon **pre-existing models**, adapted for academic use and further analysis.
 
 ---
@@ -42,6 +40,15 @@ This repository features MATLAB-based simulations and LaTeX-based documentation 
 
 ---
 
+### 🧪 A5: Compartmental Modelling of Metabolic Systems
+- Simulation of **glucose-insulin regulation** in healthy and diabetic subjects
+- Analysis of **step** and **bolus inputs**, including **insulin infusion therapy**
+- Implementation of the **Riggs model** for **iodine metabolism**
+- Comparison of steady-state and dynamic responses in physiological compartments  
+> 🔹 Models built using first-order linear differential equations and solved via `ode23` in MATLAB
+
+---
+
 ## 🧰 Tools & Technologies
 
 - **MATLAB / Simulink** – For simulations and GUI-based experiments  
@@ -52,4 +59,5 @@ This repository features MATLAB-based simulations and LaTeX-based documentation 
 ---
 
 This repository represents a hands-on approach to learning physiological systems through modeling. Each assignment bridges theory with simulation, enabling in-depth analysis of how biological systems function under both normal and pathological conditions.
+
 
