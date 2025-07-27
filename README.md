@@ -1,6 +1,7 @@
 # Modelling and Analysis of Physiological Systems
 
-This repository features MATLAB-based simulations and LaTeX-based documentation that analyze and model core physiological processes. Some simulations were built upon **pre-existing models**. These were completed in partial fulfillment of the requirements for the module BM2102 - Modelling and Analysis pf Physiological Systems. 
+This repository features MATLAB-based simulations and LaTeX-based documentation that analyze and model core physiological processes. Some simulations were built upon pre-existing models. These were completed in partial fulfillment of the requirements for the module BM2102 - Modelling and Analysis pf Physiological Systems. 
+
 ---
 
 ## 📁 Repository Contents
